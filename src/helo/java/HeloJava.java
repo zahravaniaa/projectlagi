@@ -16,6 +16,7 @@ public class HeloJava {
      */
     public static void main(String[] args) {
         System.out.println("Halo ini vania dan tita");
+        System.out.println("Selamat datang di projek kami");
     }
     
 }
